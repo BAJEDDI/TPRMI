@@ -62,4 +62,5 @@ Main menu
 ![image](https://github.com/BAJEDDI/TPRMI/assets/147507670/17fe07eb-6d9c-40dc-99fa-1fc6398d4494)
 Machines
 ![image](https://github.com/BAJEDDI/TPRMI/assets/147507670/3aa8bd8f-1824-4071-97eb-7d399f591b79)
+![image](https://github.com/BAJEDDI/TPRMI/assets/147507670/70dd8646-78ad-48cd-a043-4b1fd95a1ae5)
 
