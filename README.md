@@ -60,7 +60,17 @@ For questions or assistance, please contact [nassimabajeddi2020@gmail.com].
 ## Screenshots
 Main menu
 ![image](https://github.com/BAJEDDI/TPRMI/assets/147507670/17fe07eb-6d9c-40dc-99fa-1fc6398d4494)
+
 Machines
 ![image](https://github.com/BAJEDDI/TPRMI/assets/147507670/3aa8bd8f-1824-4071-97eb-7d399f591b79)
-![image](https://github.com/BAJEDDI/TPRMI/assets/147507670/70dd8646-78ad-48cd-a043-4b1fd95a1ae5)
+
+![image](https://github.com/BAJEDDI/TPRMI/assets/147507670/2cd7c14d-4dbf-4ebc-a515-320f6aa024a7)
+
+Rooms
+
+![image](https://github.com/BAJEDDI/TPRMI/assets/147507670/0fb3b161-9de8-45b7-8d48-1670e528faa2)
+
+![image](https://github.com/BAJEDDI/TPRMI/assets/147507670/a62cbc43-4610-42e0-a1eb-e64e336db52b)
+
+![image](https://github.com/BAJEDDI/TPRMI/assets/147507670/f6b8a71e-f8ba-4070-8f64-a76b82cf4a88)
 
